@@ -1,2 +1,2 @@
-# ai_house_fake_news_detection_course
+# AI House Fake News Detection course
 Detection of fake news using NLP models
